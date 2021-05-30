@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
 <h3 align="center">A passionate developer and ethical hacking enthusiast from India.</h3>
 
-- 🔭 Currently pursuing [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
+- 🔭 I'm currently working on **Full-Stack Web Developement**
 
 - 🌱 I’m currently learning **JavaScript,PHP and SQlite.**
 
-- 👯 My LinkedIn Profile @ [tiyasha-banerjee-06](https://www.linkedin.com/in/tiyasha-banerjee-06/)
+- 🏫 Currently pursuing [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
-- 🤝 My projects are available at [tiyashabanerjee46](https://github.com/tiyashabanerjee46)
+- 🤝 My LinkedIn Profile @ [tiyasha-banerjee-06](https://www.linkedin.com/in/tiyasha-banerjee-06/)
+
+- 📝 My projects are available at [tiyashabanerjee46](tiyashabanerjee46)
 
 - 💬 Ask me about **JAVA,Python & Front End Developement..**
 
@@ -42,3 +44,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyashabanerjee46&show_icons=true&locale=en&layout=compact" alt="tiyashabanerjee46" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyashabanerjee46&show_icons=true&locale=en" alt="tiyashabanerjee46" /></p>
+
