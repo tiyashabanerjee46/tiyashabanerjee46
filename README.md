@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
-<h3 align="center">A passionate developer and ethical hacking enthusiast from India.</h3>
+<h3 align="center">A passionate full stack web developer from India.</h3>
 
 - 🔭 I'm currently working on **Full-Stack Web Developement**
 
