@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **Full-Stack Web Developement**
 
-- 🌱 I’m currently learning **JavaScript,PHP and SQlite.**
+- 🌱 I’m currently learning **JavaScript, ReactJS and MongoDB.**
 
 - 🏫 Currently pursuing [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
