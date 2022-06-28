@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
-<h3 align="center">A passionate full stack web developer from India.</h3>
+<h3 align="center">ReactJs Developer.</h3>
 
-- 🔭 I'm currently working on **Full-Stack Web Developement**
+- 🔭 I'm currently working on **Front end Developement**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS and MongoDB.**
+- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs and MongoDB.**
 
-- 🏫 Currently pursuing [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
+- 🏫 Completed [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
 - 🤝 My LinkedIn Profile @ [tiyasha-banerjee-06](https://www.linkedin.com/in/tiyasha-banerjee-06/)
 
 - 📝 My projects are available at [tiyashabanerjee46](tiyashabanerjee46)
 
-- 💬 Ask me about **JAVA,Python & Front End Developement..**
+- 💬 Ask me about **ReactJs,Javascript,Python & Back End Developement..**
 
 - 📫 How to reach me **tiyasha.tbanerjee@gmail.com**
 
