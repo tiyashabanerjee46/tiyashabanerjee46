@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
 <h3 align="center">ReactJs Developer.</h3>
 
-- 🔭 I'm currently working on **Front end Developement**
+- 🔭 I'm currently working as **React JS Developer**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs and MongoDB.**
+- 🌱 I’m currently learning **Java, JavaScript, MERN Stack.**
 
 - 🏫 Completed [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
