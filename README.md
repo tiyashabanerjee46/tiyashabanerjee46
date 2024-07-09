@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
 <h3 align="center">ReactJs Developer.</h3>
 
-- 🔭 I'm currently working as **React JS Developer**
+- 🔭 I'm currently working as **Data Analyst**
 
-- 🌱 I’m currently learning **Java, JavaScript, MERN Stack.**
+- 🌱 I’m currently learning **SQL, Python & PowerBI.**
 
 - 🏫 Completed [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 - 📝 My projects are available at [tiyashabanerjee46](tiyashabanerjee46)
 
-- 💬 Ask me about **ReactJs,Javascript,Python & Back End Developement..**
+- 💬 Ask me about **Data Analytics,SQL,Python & Back End Developement..**
 
 - 📫 How to reach me **tiyasha.tbanerjee@gmail.com**
 
-- ⚡ Fun fact **One thing I cannot live without is Food..**
+- ⚡ Fun fact **Furthermore, I have good convincing skill….(agar kuch kaam nikal wana ho , then contact me...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
