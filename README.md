@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
-<h3 align="center">DATA SCIENTIST.</h3>
+<h3 align="center">DATA SCIENTIST</h3>
 
 - 🔭 I'm currently working as a **Data Analyst**
 
