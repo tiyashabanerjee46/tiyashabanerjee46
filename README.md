@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tiyasha Banerjee</h1>
-<h3 align="center">ReactJs Developer.</h3>
+<h3 align="center">DATA SCIENTIST.</h3>
 
-- 🔭 I'm currently working as **Data Analyst**
+- 🔭 I'm currently working as a **Data Analyst**
 
-- 🌱 I’m currently learning **SQL, Python & PowerBI.**
+- 🌱 I’m currently learning **SQL, Python & Machine Learning.**
 
 - 🏫 Completed [MCA from Pondicherry University, Puducherry, India.](https://www.pondiuni.edu.in/)
 
