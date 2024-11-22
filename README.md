@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Data Analytics,SQL,Python & Back End Developement..**
 
-- 📫 How to reach me **tiyasha.tbanerjee@gmail.com**
+- 📫 How to reach me **tiyashabanerjee.official98@gmail.com**
 
 - ⚡ Fun fact **Furthermore, I have good convincing skill….(agar kuch kaam nikal wana ho , then contact me...**
 
